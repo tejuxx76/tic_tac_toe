@@ -67,12 +67,3 @@ A modern Tic Tac Toe desktop game built using Python and Tkinter with advanced U
 - **OK** - Close winner popup.
 - **Exit** - Close the application.
 
----
-
-## 🚀 Run Project
-
-```bash
-python main.py
-```
-
----
